@@ -3,6 +3,6 @@ A remake of SM64 that looks like the 1994 build  .
 
 Credit to:
 
-B3313 Team for fonts
+B3313 Team for alot of stuff.
 
 Super Mario 64 Restoration Project for giving me the idea.
